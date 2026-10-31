@@ -1,3 +1,4 @@
 streamlit
-scikit-learn
 nltk
+pandas
+# ... (include any other libraries your app uses, like scikit-learn, numpy, etc.)
